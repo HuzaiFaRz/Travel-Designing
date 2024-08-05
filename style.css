@@ -4,6 +4,7 @@
   box-sizing: border-box;
   font-family: "poppins", sans-serif;
   transition: all 0.3s linear;
+  user-select: none;
 }
 html,
 body {
